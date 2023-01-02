@@ -1,6 +1,0 @@
-
-My name is Ruchira Perera, I am a FullStack Developer that loves creating applications which help make other's lives easier. Since being introduced to full stack development in university I have loved learning and creating projects. I strive to create intuitive, rewarding and professional looking user interfaces through the front-end design for both mobile and desktop. As well as create effective solutions on the server side to handle smooth operation.  
-As well as creating efficeient solutions on the server side. 
-
-
-Creative and driven developer seeking a fullstack position for 2023. I specialize in the MERN stack (MongoDB, Express, React, Node.js) and I am constantly learning other technologies.
