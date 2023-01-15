@@ -5,7 +5,10 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
   background-color: #d1d1d1;
-background-image: url("https://www.transparenttextures.com/patterns/60-lines.png");
+  /* background-color: #ececec; */
+  
+  background-image: url("https://www.transparenttextures.com/patterns/absurdity.png");
+/* background-image: url("https://www.transparenttextures.com/patterns/60-lines.png"); */
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 
@@ -298,8 +301,12 @@ section {
 
 .section-bg {
   /* background: #cecece; */
-  background-color: #838383;
-background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
+  background-color: #e6e6e6;
+/* background-image: url("https://www.transparenttextures.com/patterns/absurdity.png"); */
+/* background-color: #cc8800; */
+background-image: url("https://www.transparenttextures.com/patterns/az-subtle.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+/* background-image: url("https://www.transparenttextures.com/patterns/axiom-pattern.png"); */
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 
